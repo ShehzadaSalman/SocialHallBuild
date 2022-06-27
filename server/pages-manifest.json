@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/about-values": "pages/about-values.html",
+  "/about": "pages/about.html",
+  "/admin/approve-collapsed": "pages/admin/approve-collapsed.html",
+  "/admin/approve-expanded": "pages/admin/approve-expanded.html",
+  "/admin": "pages/admin.html",
+  "/admin/member": "pages/admin/member.html",
+  "/admin/queires": "pages/admin/queires.html",
+  "/admin/recommended-services": "pages/admin/recommended-services.html",
+  "/admin/rosters": "pages/admin/rosters.html",
+  "/api/hello": "pages/api/hello.js",
+  "/dummy": "pages/dummy.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/signup": "pages/signup.html",
+  "/vision": "pages/vision.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
